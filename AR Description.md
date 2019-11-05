@@ -65,3 +65,5 @@ $$ R = (0.1 \cdot M + 0.9 \cdot (I + O)) e^{(-2)\sin{\({\pi \over 4}- \tan^{-1} 
 ##统计结果
 
 我们设定统计的时间段为2019年10月28日至2019年10月31日，针对CoinMarketCap网站Top Cryptocurrencies 榜单上前100名的加密货币中的ERC20代币进行统计，统计的代币数量有44个，最终的统计结果如下图：
+
+![ERC20_result](https://github.com/Niko-Guan/AR/blob/master/pic/ERC20_result.jpg)
