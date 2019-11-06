@@ -78,7 +78,7 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 <br>
 
-<div style="text-align:center"><img src="pic/account_result.png"></div>
+<div style="text-align:center"><img src="pic/account_result.png" title="account result"></div>
 
 <div style="text-align:center">
 
