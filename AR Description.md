@@ -20,7 +20,6 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 ![fomular](pic/fomular.png)
 
-
 ###参数说明：
 
 > 1）M：统计时间段内某地址的ERC20资产中值占比。对地址的balance按照每128个区块高度的间隔进行采样，并选出中位数作为地址的ERC20资产中值，再除以该货币的现时流通总量获得比值。
@@ -34,8 +33,6 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 > a）所有参数计算均是针对单一种ERC20代币以及某一个具体的地址；
 > 
 > b）I和O进行计算之前已经过去环处理。
-
-
 
 ##账户指数（AR）统计流程
 
@@ -70,7 +67,6 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 <img src="pic/ERC20_result.png" title="ERC20 result">
 
 </div>
-
 
 <div style="text-align:center">
 图1.1 ERC20代币活跃度排名
