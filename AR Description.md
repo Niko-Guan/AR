@@ -18,7 +18,7 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 ## 账户指数（AR）计算公式
 
-![fomular](pic/fomular.png)
+![fomular](https://github.com/Niko-Guan/AR/blob/master/pic/fomular.png)
 
 - 参数说明：
 
@@ -62,13 +62,13 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 我们设定统计的时间段为2019年10月28日至2019年10月31日，针对CoinMarketCap网站Top Cryptocurrencies 榜单上前100名的加密货币中的ERC20代币进行统计，统计的代币数量有44个，涉及用户地址131140个，最终的统计结果如下图：
 
- <div style="text-align:center"> <img src="pic/ERC20_result.png" title="ERC20 result" /> </div>
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/ERC20_result.png" title="ERC20 result" /> </div>
 
  <p style="text-align:center"> 图1.1 ERC20代币活跃度排名 </p>
 
  <br>
 
- <div style="text-align:center"> <img src="pic/account_result.png" title="account result" /> </div>
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/account_result.png" title="account result" /> </div>
 
  <p style="text-align:center"> 图1.2 用户活跃度排名（前50）</p>
 
