@@ -65,9 +65,7 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 <br>
 
 <div style="text-align:center">
-
 <img src="pic/ERC20_result.png" title="ERC20 result">
-
 </div>
 
 <div style="text-align:center">
@@ -76,12 +74,10 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 <br>
 
-<div style="text-align:center"><img src="pic/account_result.png" title="account result"></div>
+<div style="text-align:center"> <img src="pic/account_result.png" title="account result"> </div>
 
 <div style="text-align:center">
-
 图1.2 用户活跃度排名（前50）
-
 </div>
 
 通过观察统计结果图1可知，在统计的ERC20代币中，USDT、USDC、DAI和PAX作为主要的稳定币项目，具有流动性强和散布程度高等特点，其账户指数（AR）比较高；而类似XMX等存在代币集中销毁行为的ERC20代币，尽管存在基金会（占有代币总量的20%以上）回购代币的行为，但是其账户指数（AR）不会过高，因此可以认为，账户指数在避免资产大户的绝对统治上是有效的。
