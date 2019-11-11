@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 a = 100
-b = 0.5
+b = 0.0001
 
 x = np.arange(0.0001, 200.0, 1.0)
 y = x
