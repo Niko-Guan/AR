@@ -18,7 +18,7 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 ## 账户指数（AR）计算公式
 
-![fomular](https://github.com/Niko-Guan/AR/blob/master/pic/fomular.png)
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/fomular.png" title="fomular" /> </div>
 
 - 参数说明：
 
