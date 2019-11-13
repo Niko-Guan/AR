@@ -97,7 +97,9 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
 通过对比USDT和XMX两种ERC20代币的账户指数top10的地址的账户指数（图3）更能证明上述结论。
 
- <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/USDT-XMX.png" title="account result" /> </div>
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/USDT.png" title="account result" /> </div>
+
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/XMX.png" title="account result" /> </div>
 
  <p style="text-align:center"> 图3 USDT与XMX账户指数对比（top10）</p>
 
