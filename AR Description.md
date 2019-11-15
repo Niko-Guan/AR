@@ -22,12 +22,18 @@ ASResearch研究团队提出的账户指数（AR）是一个综合考量区块�
 
  <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/ERC20_result.png" title="ERC20 result" /> </div>
 
+ <br>
+
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/ERC20_result.png" title="ERC20 result" /> </div>
  <p style="text-align:center"> 图1 ERC20代币活跃度排名 </p>
 
  <br>
 
  <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/account_result.png" title="account result" /> </div>
 
+ <br>
+
+ <div style="text-align:center"> <img src="https://github.com/Niko-Guan/AR/blob/master/pic/account_result.png" title="account result" /> </div>
  <p style="text-align:center"> 图2 用户活跃度排名（top50）</p>
 
  <br>
